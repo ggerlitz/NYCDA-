@@ -1,0 +1,82 @@
+body {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+header {
+	background-color: purple;
+	padding: 0em 0em 1em 0em;
+	margin: 1em;
+}
+
+header h1 {
+		font-family: cursive;
+}
+
+nav {
+	display: inline-block;
+}
+
+nav a {
+	margin: 2em;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+}
+
+p {
+	width: 350px;
+	margin: .5em;
+	padding: 1em;
+}
+
+h1{
+	text-align: center;
+}
+
+.left {
+	float: left;
+	margin: 4em;
+	width: 350px;
+} 
+
+.right {
+	float: left;
+	width: 350px;
+}
+
+.special {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width 200px;
+	background-color: yellow;
+}
+
+img {
+	float: left;
+	width: 40%;
+	height: auto;
+	margin: 0em .5em .5em .5em;
+}
+
+#seal img{
+	float: left;
+	width: 70%;
+	margin: .5em 1em 1em .5em;
+}
+
+.left a, .right a {
+	text-decoration: none;
+}
+
+.special a {
+	text-decoration: none;
+	font-size: 18px;
+	margin: 1em;
+}
+
+.special h2 {
+	text-align: center;
+}
+

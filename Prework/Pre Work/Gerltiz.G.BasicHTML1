@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<body>
+	<h1>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</h1>
+		<h2>Quisque egestas augue vitae leo.</h2>
+			<ul>
+				<li>Praesent nec metus ac nunc elementum consectetur.</li>
+				<li>Nam tristique risus eget nunc tristique pulvinar.</li>
+				<li>Donec porttitor sem sed orci dignissim tempor.</li>
+			</ul>
+
+	<h3>Ut sed leo dapibus erat cursus ultrices sit amet viverra felis.</h3>
+		<p>Morbi volutpat eget leo quis porttitor. Phasellus dictum urna a lorem semper, a vehicula nulla tempus. Aenean faucibus hendrerit ligula, non iaculis sem eleifend ut. Sed urna massa, rhoncus eget fringilla id, eleifend a elit. Aenean quis ultricies nisl, non ullamcorper est. Aliquam erat volutpat. Duis id sodales ex. Nulla facilisi.</p>
+
+		<p>Proin efficitur augue eros, nec sollicitudin libero auctor non. Aliquam fringilla, elit quis euismod interdum, est orci convallis tellus, sit amet condimentum turpis velit ut nibh. Praesent molestie suscipit porttitor. Quisque sollicitudin metus tincidunt tortor ornare pellentesque. Etiam vestibulum nisl et dolor aliquet mollis. Curabitur ac rutrum nibh, ut tristique diam. Fusce luctus consequat nulla, eget vehicula mauris pharetra non. In interdum, neque a facilisis lobortis, eros dui interdum nibh, non tincidunt justo augue vitae odio. Aliquam at lorem risus. Nulla tempor maximus velit, vel aliquet leo hendrerit quis. Phasellus fringilla lacinia sem, ut commodo est mattis vitae. Donec viverra erat sit amet luctus dapibus. Donec sit amet porta est. Proin sit amet euismod massa, eget dictum dolor. Nam sed leo pellentesque, sodales odio nec, commodo lorem.</p>
+
+		<p>Praesent a lectus ultricies, elementum tellus sit amet, semper orci.Integer aliquet, elit vel blandit consequat, urna enim maximus odio, in facilisis elit eros ac justo. Cras dictum maximus ante tristique consequat. Phasellus lobortis, turpis ut fermentum fringilla, libero neque euismod augue, id pharetra est arcu eget justo. Donec lobortis ante quis elit feugiat, a vehicula nibh dictum. Nam vel tempus elit, ac porta nunc. Aenean laoreet condimentum malesuada. Pellentesque efficitur tellus eu bibendum tempor. Nulla ultrices scelerisque nisl quis posuere.</p>
+
+		<a href="file:///Users/ggerlitz/Documents/NYCDA/Pre%20Work/HTML%20Homework%20Page%202.html">Next Page</a>
+
+		<p><img src="https://static.pexels.com/photos/1171/person-apple-laptop-notebook.jpg" alt="Laptop" style="width:500px;height:500px;"></p>
+</p>
+</body>
+</html>
